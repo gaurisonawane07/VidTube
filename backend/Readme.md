@@ -25,7 +25,5 @@ It provides RESTful APIs for user authentication, video uploads, comments, likes
 - **JWT** (Authentication & Authorization)
 - **bcrypt** (Password hashing)
 
----
 
-## 📂 Project Structure
 
